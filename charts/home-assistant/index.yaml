@@ -3,10 +3,10 @@ entries:
   home-assistant:
   - apiVersion: v2
     appVersion: 2025.12.3
-    created: "2025-12-16T19:52:08.269934035+01:00"
+    created: "2025-12-16T20:01:45.067047067+01:00"
     description: Automatically Updated Helm Chart for Home Assistant
-    digest: e8e4f67d9593a3f7616b19488cd6405507efe8e1afc0dfb815fdb01da33d7d9f
-    home: https://github.com/pajikos/home-assistant-helm-chart
+    digest: 336a43ea025b6e06b50ba5d77af8a4b52339a8c7df3b48f75d3d426900e1275f
+    home: https://github.com/davidahl/home-assistant-helm-chart
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Home_Assistant_Logo.svg/519px-Home_Assistant_Logo.svg.png
     keywords:
     - home-assistant
@@ -18,11 +18,11 @@ entries:
       name: pajikos
     name: home-assistant
     sources:
-    - https://github.com/pajikos/home-assistant-helm-chart
+    - https://github.com/davidahl/home-assistant-helm-chart
     - https://github.com/cdr/code-server
-    - https://github.com/pajikos/home-assistant-helm-chart/tree/main/charts/home-assistant
+    - https://github.com/davidahl/home-assistant-helm-chart/tree/main/charts/home-assistant
     type: application
     urls:
     - home-assistant-0.3.35.tgz
     version: 0.3.35
-generated: "2025-12-16T19:52:08.267722533+01:00"
+generated: "2025-12-16T20:01:45.064816799+01:00"
